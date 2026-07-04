@@ -21,5 +21,4 @@ Sanika jadhav
 
 ## Screenshot
 
-![Expense Tracker]
-(screenshots/expense_tracker.png)
+Screenshot_2026-07-04-21-16-39-087_ru.iiec.pydroid3.jpg
