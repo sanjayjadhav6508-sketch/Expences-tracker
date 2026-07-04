@@ -18,3 +18,7 @@ python main.py
 
 ## Author
 Sanika jadhav
+
+## Screenshot
+
+![Expense Tracker](screenshots/expense_tracker.png)
