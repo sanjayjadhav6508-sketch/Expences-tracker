@@ -1,2 +1,1 @@
-# Expences-tracker
-Optional
+# Expences-tracker proje
