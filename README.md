@@ -21,4 +21,5 @@ Sanika jadhav
 
 ## Screenshot
 
-![Expense Tracker](screenshots/expense_tracker.png)
+![Expense Tracker]
+(screenshots/expense_tracker.png)
